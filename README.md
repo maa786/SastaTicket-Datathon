@@ -1,4 +1,18 @@
 # SastaTicket-Datathon
+## What are you to do?
+Ahmed is a customer of Sastaticket.pk. He is planning to fly from Karachi to Islamabad for his
+brother’s wedding and is currently in the process of choosing tickets. Ahmed has to go to
+Islamabad but Ahmed also wants to save some money in the process, so he chooses to wait
+instead of buy now, simply because ticket prices are just too high.
+Is this the right decision? Won’t ticket prices increase in the future? Perhaps there is a
+sweet-spot Ahmed is hoping to find and maybe he just might find it.
+This is the problem that you will be tackling in this competition. Can you predict future prices
+accurately to such a degree that you can now tell Ahmed - with confidence - that he has made
+the wrong decision.
+Your task boils down to generating optimal predictions for flight prices of multiple airlines. If
+successful, your model will contribute greatly to Sastaticket’s rich and diverse set of operating
+algorithms.
+
 Sastaticket will provide you with a train/test dataset. This synthetic dataset contains records
 which act as search data. For example, if someone was to come on to Sastaticket’s website and
 search for a flight, this data would be recorded.
