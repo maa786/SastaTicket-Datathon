@@ -1,5 +1,5 @@
 # SastaTicket-Datathon
-## What are you to do?
+## What are we do?
 Ahmed is a customer of Sastaticket.pk. He is planning to fly from Karachi to Islamabad for his
 brother’s wedding and is currently in the process of choosing tickets. Ahmed has to go to
 Islamabad but Ahmed also wants to save some money in the process, so he chooses to wait
